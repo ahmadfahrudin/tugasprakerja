@@ -207,6 +207,22 @@ h2 {
 	margin-bottom: 10px;
 }
 
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table th, td {
+	border: 1px solid #ccc;
+	padding: 8px;
+}
+
+table th {
+	font-weight: bold;
+	text-align: center;
+}
+
+
 .product-section {
 	display: flex;
 	flex-wrap: wrap;
